@@ -4,6 +4,7 @@
 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/>
 
 ---
+A curated and continuously updated paper repository for Vision-Language-Action (VLA) safety, covering VLA attacks, defenses, robustness, safety evaluations from data safety, training safety, and deployment safety perspectives. 
 
 This repository provides a **comprehensive and structured resource** for Vision-Language-Action (VLA) safety, based on our survey:   
 📄 **[Safety of Vision-Language-Action Models: A Survey from Lifecycle Perspectives](https://www.authorea.com/doi/full/10.22541/au.177524426.60806944/v1)**  
